@@ -1,7 +1,7 @@
 # SQL_Notes_-_Interview_Questions
-Starting SQL Interviews Preparation in 2025?
+Starting SQL Interviews Preparation .
 
-Start your SQL interview preparation journey in New Year with a Complete list of Interview Questions. Stay one step forward with preparing these interview Questions.
+Start your SQL interview preparation journey with a Complete list of Interview Questions. Stay one step forward with preparing these interview Questions.
 
 1. What is a database, and how is it different from a DBMS?
 2. How does MySQL differ from other relational database management systems?
